@@ -1,2 +1,6 @@
-# crud-rest-api
-CRUD REST API
+# CRUD REST API
+
+- Flask
+- Docker, Docker compose
+- PostgreSQL
+- GET, POST, PUT, DELETE
